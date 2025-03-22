@@ -21,4 +21,4 @@ Python 3.10
 pip install numpy matplotlib pyaudio ggwave
 
 Building an .exe
-pyinstaller --onefile --windowed --icon=icon.ico ggwave-chat.py
+pyinstaller --onefile --windowed ggwave-chat.py
